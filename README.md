@@ -2,3 +2,4 @@
 Please raise an issue if you want to add a new idea in this organization
 # List of Projects
 - VS Code color theme extension
+- Youtube silent beat skip
